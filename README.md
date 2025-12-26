@@ -3,8 +3,7 @@
 
  <div>
    <a href="https://github.com/Evertonneto">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Evertonneto&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evertonneto&layout=compact&langs_count=6&theme=github_dark"/>
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evertonneto)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 <div style="display: inline_block"><br>
