@@ -11,7 +11,7 @@ I am also pursuing an **MBA in Software Engineering at USP/ESALQ**, constantly s
 ### 🚀 What I Do
 
 * **Government Solutions:** I lead the development and maintenance of portals focusing on performance and accessibility, ensuring compatibility across desktop and mobile devices.
-* **System Integration:** I specialize in integrating custom front-ends with complex platforms like **SoftExpert Suite** and consuming REST APIs to digitize administrative processes.
+* **System Integration:** I specialize in integrating custom front-ends with complex platforms like **SoftExpert Suite** and consuming REST APIs and SOAP APIs to digitize administrative processes.
 * **Legacy Modernization:** I have experience in corrective and evolutionary maintenance, applying clean code practices to modernize legacy systems.
 
 ---
